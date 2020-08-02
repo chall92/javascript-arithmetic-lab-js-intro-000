@@ -16,7 +16,7 @@ function divide(a, b) {
 }
 
 function increment(n) {
-  return 
+  return n += n
 }
 
 function decrement(n) {
@@ -24,6 +24,7 @@ function decrement(n) {
 }
 
 function makeInt(n) {
+
   return parseInt(n)
 }
 
