@@ -16,17 +16,17 @@ function divide(a, b) {
 }
 
 function increment(n) {
-  return
+  return 
 }
 
 function decrement(n) {
-
+  return 
 }
 
 function makeInt(n) {
-
+  return
 }
 
 function preserveDecimal(n) {
-
+  return 
 }
