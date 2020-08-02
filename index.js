@@ -16,11 +16,11 @@ function divide(a, b) {
 }
 
 function increment(n) {
-  return 
+  return
 }
 
 function decrement(n) {
-  return 
+  return
 }
 
 function makeInt(n) {
@@ -28,5 +28,5 @@ function makeInt(n) {
 }
 
 function preserveDecimal(n) {
-  return 
+  return
 }
