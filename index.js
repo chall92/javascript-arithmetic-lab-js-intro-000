@@ -16,7 +16,7 @@ function divide(a, b) {
 }
 
 function increment(n) {
-  return += n
+  return 0 += n
 }
 
 function decrement(n) {
