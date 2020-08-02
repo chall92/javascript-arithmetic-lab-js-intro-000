@@ -1,15 +1,15 @@
 function add(a, b) {
-  a + b
+  return a + b
 }
 
 function subtract(a, b) {
-  a - b
+  return a - b
 }
 
 function multiple(a, b) {
-  a * b
+  return a * b
 }
 
 function divide(a, b) {
-  a / b
+  return a / b
 }
