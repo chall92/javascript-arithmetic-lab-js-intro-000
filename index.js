@@ -13,3 +13,19 @@ function multiply(a, b) {
 function divide(a, b) {
   return a / b
 }
+
+function increment(n) {
+  
+}
+
+function decrement(n) {
+  
+}
+
+function makeInt(n) {
+  
+}
+
+function preserveDecimal(n) {
+  
+}
