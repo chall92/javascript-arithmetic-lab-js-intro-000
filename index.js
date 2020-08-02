@@ -16,7 +16,7 @@ function divide(a, b) {
 }
 
 function increment(n) {
-  return
+  return 
 }
 
 function decrement(n) {
@@ -24,7 +24,7 @@ function decrement(n) {
 }
 
 function makeInt(n) {
-  return
+  return parseInt(n)
 }
 
 function preserveDecimal(n) {
