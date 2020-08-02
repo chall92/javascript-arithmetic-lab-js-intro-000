@@ -20,7 +20,7 @@ function increment(n) {
 }
 
 function decrement(n) {
-  return
+  return n -= n
 }
 
 function makeInt(n) {
