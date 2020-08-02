@@ -2,14 +2,14 @@ function add(a, b) {
   a += b
 }
 
-function subtract() {
+function subtract(a, b) {
   a -= b
 }
 
-function multiple() {
+function multiple(a, b) {
   a *= b
 }
 
-function divide() {
+function divide(a, b) {
   a /= b
 }
